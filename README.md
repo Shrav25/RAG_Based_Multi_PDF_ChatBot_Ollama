@@ -15,4 +15,9 @@ This project builds a chatbot that answers questions based on the content of **m
 
 ## 🧱 Project Structure
 
-<pre><code>## 📁 Project Structure ``` rag-pdf-chatbot-ollama/ ├── app.py # Streamlit chatbot interface ├── my_docs/ # Folder to store input PDFs ├── rag_chroma/ # Auto-generated Chroma DB (do not commit) ├── requirements.txt # Dependencies └── README.md # Project overview ``` </code></pre>
+📁 Project Structure ``` rag-pdf-chatbot-ollama/ 
+├── app.py # Streamlit chatbot interface 
+├── my_docs/ # Folder to store input PDFs 
+├── rag_chroma/ # Auto-generated Chroma DB (do not commit) 
+├── requirements.txt # Dependencies 
+
